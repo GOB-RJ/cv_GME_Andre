@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//QR-Code-Generator.com//EN
+N:Rosa dos Santos;André Luís;;;
+FN:André Luís Rosa dos Santos
+ORG:GOB-RJ;
+TITLE:Grão-Mestre
+EMAIL;TYPE=PREF,INTERNET:graomestre@gob-rj.org.br
+TEL;TYPE=CELL,voice:+5521985630783
+TEL;TYPE=WORK,voice:
+TEL;TYPE=WORK,fax:
+ADR;TYPE=WORK;type=pref:;;Avenida Presidente Vargas 502;Rio de Janeiro;RJ;20071-000;Brazil
+URL:https://gob-rj.org.br/portal/
+
+NOTE:
+
+REV:2008-04-24T19:52:43Z
+END:VCARD
